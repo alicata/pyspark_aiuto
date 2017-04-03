@@ -1,4 +1,4 @@
-#Pyspark Utilities on Windows
+# Pyspark Utilities on Windows
 
 A set of python utilities to help with common spark programming tasks with numpy arrays.
 
@@ -11,6 +11,6 @@ Installation instructions:
     https://mas-dse.github.io/DSE230/installation/windows/
 
 Dependencies:
-    1) Java 8 (Spark 2)
-    2) GoW - GNU on Windows (curl)
-    3) winutils (hadhoop on Windows)
+* 1) Java 8 (Spark 2)
+* 2) GoW - GNU on Windows (curl)
+* 3) winutils (hadhoop on Windows)
